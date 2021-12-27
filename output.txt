@@ -1,0 +1,259 @@
+t   t   t   e   e   n
+s   l   n   w   w   s
+            s   l    
+Test Case:           0
+                                         8000
+                                        18000
+                                        28000
+Test Case:           1
+    el          lg                      38000
+es  el          lg                      48000
+es              lg                      58000
+es              lg                      68000
+es              lg                      78000
+es              lg                      88000
+es              lg                      98000
+es              ly                     108000
+es              ly                     118000
+es                                     128000
+es          sg                         138000
+es          sg                         148000
+es          sg                         158000
+            sg                         168000
+            sg                         178000
+            sg                         188000
+            sg                         198000
+            sy                         208000
+            sy                         218000
+                                       228000
+                                       238000
+                                       248000
+                                       258000
+                                       268000
+                                       278000
+                                       288000
+                                       298000
+                                       308000
+                                       318000
+                                       328000
+                                       338000
+                                       348000
+                                       358000
+Test Case:           2
+        ns          ng                 368000
+        ns          ng                 378000
+        ns          ng                 388000
+        ns          ng                 398000
+                    ng                 408000
+                    ng                 418000
+                    ng                 428000
+                    ny                 438000
+                    ny                 448000
+                                       458000
+                                       468000
+                                       478000
+                                       488000
+                                       498000
+                                       508000
+                                       518000
+                                       528000
+                                       538000
+                                       548000
+                                       558000
+                                       568000
+                                       578000
+                                       588000
+                                       598000
+Test Case:           3
+        ns          ng                 608000
+        ns          ng                 618000
+        ns          ng                 628000
+        ns          ng                 638000
+        ns          ng                 648000
+        ns          ng                 658000
+        ns          ng                 668000
+        ns          ng                 678000
+        ns          ng                 688000
+        ns          ng                 698000
+    el  ns          ng                 708000
+    el  ns          ng                 718000
+    el  ns          ny                 728000
+    el  ns          ny                 738000
+    el  ns                             748000
+    el  ns      lg                     758000
+    el  ns      lg                     768000
+    el  ns      lg                     778000
+    el  ns      lg                     788000
+    el  ns      lg                     798000
+    el  ns      lg                     808000
+    el  ns      lg                     818000
+    el  ns      lg                     828000
+    el  ns      lg                     838000
+    el  ns      lg                     848000
+    el  ns      lg                     858000
+    el  ns      lg                     868000
+    el  ns      ly                     878000
+    el  ns      ly                     888000
+    el  ns                             898000
+    el          lg                     908000
+                lg                     918000
+                lg                     928000
+                lg                     938000
+                lg                     948000
+                lg                     958000
+                lg                     968000
+                ly                     978000
+                ly                     988000
+                                       998000
+                                      1008000
+                                      1018000
+                                      1028000
+                                      1038000
+                                      1048000
+                                      1058000
+                                      1068000
+                                      1078000
+                                      1088000
+                                      1098000
+                                      1108000
+Test Case:           4
+es  el  ns          ng                1118000
+es  el  ns          ng                1128000
+es  el  ns          ng                1138000
+es  el  ns          ng                1148000
+es  el  ns          ng                1158000
+es  el  ns          ng                1168000
+es  el  ns          ng                1178000
+es  el  ns          ng                1188000
+es  el  ns          ng                1198000
+es  el  ns          ng                1208000
+es  el  ns          ng                1218000
+es  el  ns          ng                1228000
+es  el  ns          ny                1238000
+es  el  ns          ny                1248000
+es  el  ns                            1258000
+es  el  ns  sg                        1268000
+es  el  ns  sg                        1278000
+es  el  ns  sg                        1288000
+es  el  ns  sg                        1298000
+es  el  ns  sg                        1308000
+es  el  ns  sg                        1318000
+es  el  ns  sg                        1328000
+es  el  ns  sg                        1338000
+es  el  ns  sg                        1348000
+es  el  ns  sg                        1358000
+es  el  ns  sg                        1368000
+es  el  ns  sg                        1378000
+es  el  ns  sy                        1388000
+es  el  ns  sy                        1398000
+es  el  ns                            1408000
+es  el  ns      lg                    1418000
+es  el  ns      lg                    1428000
+es  el  ns      lg                    1438000
+es  el  ns      lg                    1448000
+es  el  ns      lg                    1458000
+es  el  ns      lg                    1468000
+es  el  ns      lg                    1478000
+es  el  ns      lg                    1488000
+es  el  ns      lg                    1498000
+es  el  ns      lg                    1508000
+es  el  ns      lg                    1518000
+es  el  ns      lg                    1528000
+es  el  ns      ly                    1538000
+es  el  ns      ly                    1548000
+es  el  ns                            1558000
+es  el  ns          ng                1568000
+es  el  ns          ng                1578000
+es  el  ns          ng                1588000
+es  el  ns          ng                1598000
+es  el  ns          ng                1608000
+es  el  ns          ng                1618000
+es  el  ns          ng                1628000
+es  el  ns          ng                1638000
+es  el  ns          ng                1648000
+es  el  ns          ng                1658000
+es  el  ns          ng                1668000
+es  el  ns          ng                1678000
+es  el  ns          ny                1688000
+es  el  ns          ny                1698000
+es  el  ns                            1708000
+es  el  ns  sg                        1718000
+es  el  ns  sg                        1728000
+es  el  ns  sg                        1738000
+es  el  ns  sg                        1748000
+es  el  ns  sg                        1758000
+es  el  ns  sg                        1768000
+es  el  ns  sg                        1778000
+es  el  ns  sg                        1788000
+es  el  ns  sg                        1798000
+es  el  ns  sg                        1808000
+es  el  ns  sg                        1818000
+es  el  ns  sg                        1828000
+es  el  ns  sy                        1838000
+es  el  ns  sy                        1848000
+es  el  ns                            1858000
+es  el  ns      lg                    1868000
+es  el  ns      lg                    1878000
+es  el  ns      lg                    1888000
+es  el  ns      lg                    1898000
+es  el  ns      lg                    1908000
+es  el  ns      lg                    1918000
+es  el  ns      lg                    1928000
+es  el  ns      lg                    1938000
+es  el  ns      lg                    1948000
+es  el  ns      lg                    1958000
+es  el  ns      lg                    1968000
+es  el  ns      lg                    1978000
+es  el  ns      ly                    1988000
+es  el  ns      ly                    1998000
+es  el  ns                            2008000
+es  el  ns          ng                2018000
+es  el  ns          ng                2028000
+es  el  ns          ng                2038000
+es  el  ns          ng                2048000
+es  el  ns          ng                2058000
+es  el  ns          ng                2068000
+es  el  ns          ng                2078000
+es  el  ns          ng                2088000
+es  el  ns          ng                2098000
+es  el  ns          ng                2108000
+es      ns          ng                2118000
+es      ns          ng                2128000
+es      ns          ny                2138000
+es      ns          ny                2148000
+es      ns                            2158000
+es      ns  sg                        2168000
+es      ns  sg                        2178000
+es      ns  sg                        2188000
+es      ns  sg                        2198000
+es      ns  sg                        2208000
+es      ns  sg                        2218000
+es      ns  sg                        2228000
+es      ns  sg                        2238000
+es      ns  sg                        2248000
+es      ns  sg                        2258000
+es      ns  sg                        2268000
+es      ns  sg                        2278000
+es      ns  sy                        2288000
+es      ns  sy                        2298000
+es      ns                            2308000
+                                      2318000
+                                      2328000
+                                      2338000
+                                      2348000
+                                      2358000
+                                      2368000
+                                      2378000
+                                      2388000
+                                      2398000
+                                      2408000
+                                      2418000
+                                      2428000
+                                      2438000
+                                      2448000
+                                      2458000
+                                      2468000
+                                      2478000
+                                      2488000
+                                      2498000
+                                      2508000

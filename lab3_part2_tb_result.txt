@@ -1,0 +1,262 @@
+e     e     w     w     n
+l     s     l     s     s
+                                             10000
+                                             20000
+                                             30000
+elg   esg                                    40000
+elg   esg                                    50000
+elg   esg                                    60000
+elg   esg                                    70000
+elg   esg                                    80000
+elg   esg                                    90000
+elg   esg                                   100000
+elg   esg                                   110000
+elg   esg                                   120000
+elg   esg                                   130000
+ely   esy                                   140000
+ely   esy                                   150000
+                                            160000
+      esg         wsg                       170000
+      esg         wsg                       180000
+      esg         wsg                       190000
+      esg         wsg                       200000
+      esg         wsg                       210000
+      esg         wsg                       220000
+      esg         wsg                       230000
+      esg         wsg                       240000
+      esg         wsg                       250000
+      esg         wsg                       260000
+      esy         wsy                       270000
+      esy         wsy                       280000
+                                            290000
+                                            300000
+                                            310000
+                                            320000
+                                            330000
+                                            340000
+                                            350000
+                                            360000
+                                            370000
+                                            380000
+                                            390000
+                                            400000
+                                            410000
+                                            420000
+                                            430000
+                                            440000
+                                            450000
+                                            460000
+                                            470000
+                        nsg                 480000
+                        nsg                 490000
+                        nsg                 500000
+                        nsg                 510000
+                        nsg                 520000
+                        nsg                 530000
+                        nsg                 540000
+                        nsg                 550000
+                        nsg                 560000
+                        nsg                 570000
+                        nsy                 580000
+                        nsy                 590000
+                                            600000
+                                            610000
+                                            620000
+                                            630000
+                                            640000
+                                            650000
+                                            660000
+                                            670000
+                                            680000
+                                            690000
+                                            700000
+                                            710000
+                                            720000
+                                            730000
+                        nsg                 740000
+                        nsg                 750000
+                        nsg                 760000
+                        nsg                 770000
+                        nsg                 780000
+                        nsg                 790000
+                        nsg                 800000
+                        nsg                 810000
+                        nsg                 820000
+                        nsg                 830000
+                        nsy                 840000
+                        nsy                 850000
+                                            860000
+elg   esg                                   870000
+elg   esg                                   880000
+elg   esg                                   890000
+elg   esg                                   900000
+elg   esg                                   910000
+elg   esg                                   920000
+elg   esg                                   930000
+elg   esg                                   940000
+elg   esg                                   950000
+elg   esg                                   960000
+ely   esy                                   970000
+ely   esy                                   980000
+                                            990000
+                        nsg                1000000
+                        nsg                1010000
+                        nsg                1020000
+                        nsg                1030000
+                        nsg                1040000
+                        nsg                1050000
+                        nsg                1060000
+                        nsg                1070000
+                        nsy                1080000
+                        nsy                1090000
+                                           1100000
+                                           1110000
+                                           1120000
+                                           1130000
+                                           1140000
+                                           1150000
+      esg         wsg                      1160000
+      esg         wsg                      1170000
+      esg         wsg                      1180000
+      esg         wsg                      1190000
+      esg         wsg                      1200000
+      esg         wsg                      1210000
+      esg         wsg                      1220000
+      esg         wsg                      1230000
+      esg         wsg                      1240000
+      esg         wsg                      1250000
+      esy         wsy                      1260000
+      esy         wsy                      1270000
+                                           1280000
+elg         wlg                            1290000
+elg         wlg                            1300000
+elg         wlg                            1310000
+elg         wlg                            1320000
+elg         wlg                            1330000
+elg         wlg                            1340000
+elg         wlg                            1350000
+elg         wlg                            1360000
+elg         wlg                            1370000
+elg         wlg                            1380000
+ely         wly                            1390000
+ely         wly                            1400000
+                                           1410000
+                        nsg                1420000
+                        nsg                1430000
+                        nsg                1440000
+                        nsg                1450000
+                        nsg                1460000
+                        nsg                1470000
+                        nsg                1480000
+                        nsg                1490000
+                        nsg                1500000
+                        nsg                1510000
+                        nsy                1520000
+                        nsy                1530000
+                                           1540000
+      esg         wsg                      1550000
+      esg         wsg                      1560000
+      esg         wsg                      1570000
+      esg         wsg                      1580000
+      esg         wsg                      1590000
+      esg         wsg                      1600000
+      esg         wsg                      1610000
+      esg         wsg                      1620000
+      esg         wsg                      1630000
+      esg         wsg                      1640000
+      esy         wsy                      1650000
+      esy         wsy                      1660000
+                                           1670000
+elg         wlg                            1680000
+elg         wlg                            1690000
+elg         wlg                            1700000
+elg         wlg                            1710000
+elg         wlg                            1720000
+elg         wlg                            1730000
+elg         wlg                            1740000
+elg         wlg                            1750000
+elg         wlg                            1760000
+elg         wlg                            1770000
+ely         wly                            1780000
+ely         wly                            1790000
+                                           1800000
+                        nsg                1810000
+                        nsg                1820000
+                        nsg                1830000
+                        nsg                1840000
+                        nsg                1850000
+                        nsg                1860000
+                        nsg                1870000
+                        nsg                1880000
+                        nsg                1890000
+                        nsg                1900000
+                        nsy                1910000
+                        nsy                1920000
+                                           1930000
+      esg         wsg                      1940000
+      esg         wsg                      1950000
+      esg         wsg                      1960000
+      esg         wsg                      1970000
+      esg         wsg                      1980000
+      esg         wsg                      1990000
+      esg         wsg                      2000000
+      esg         wsg                      2010000
+      esg         wsg                      2020000
+      esg         wsg                      2030000
+      esy         wsy                      2040000
+      esy         wsy                      2050000
+                                           2060000
+elg         wlg                            2070000
+elg         wlg                            2080000
+elg         wlg                            2090000
+elg         wlg                            2100000
+elg         wlg                            2110000
+elg         wlg                            2120000
+elg         wlg                            2130000
+elg         wlg                            2140000
+elg         wlg                            2150000
+elg         wlg                            2160000
+ely         wly                            2170000
+ely         wly                            2180000
+                                           2190000
+                        nsg                2200000
+                        nsg                2210000
+                        nsg                2220000
+                        nsg                2230000
+                        nsg                2240000
+                        nsg                2250000
+                        nsg                2260000
+                        nsg                2270000
+                        nsg                2280000
+                        nsg                2290000
+                        nsy                2300000
+                        nsy                2310000
+                                           2320000
+      esg         wsg                      2330000
+      esg         wsg                      2340000
+      esg         wsg                      2350000
+      esg         wsg                      2360000
+      esg         wsg                      2370000
+      esg         wsg                      2380000
+      esg         wsg                      2390000
+      esg         wsg                      2400000
+      esg         wsg                      2410000
+      esg         wsg                      2420000
+      esg         wsg                      2430000
+      esy         wsy                      2440000
+      esy         wsy                      2450000
+                                           2460000
+                                           2470000
+                                           2480000
+                                           2490000
+                                           2500000
+                                           2510000
+                                           2520000
+                                           2530000
+                                           2540000
+                                           2550000
+                                           2560000
+                                           2570000
+                                           2580000
+                                           2590000
+                                           2600000
